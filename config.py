@@ -3,17 +3,17 @@
 # ============================================================
 
 # 1. Your Telegram Bot Token (get from @BotFather on Telegram)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8751962828:AAFMkmB85r1wqoM4ycKl9RPDPNTHMgMNlIc"
 
 # 2. Your Amazon affiliate tag (e.g. "yourtag-20")
-AFFILIATE_TAG = "your-tag-20"
+AFFILIATE_TAG = "abid0d0-21"
 
 # 3. Channels to post to.
 #    Use @channelusername format OR the numeric channel ID (e.g. -1001234567890)
 #    The bot MUST be an admin with "Post Messages" permission in each channel.
 TARGET_CHANNELS = [
-    "@yourchannel1",
-    "@yourchannel2",
+    "-1002088363884",
+    "-1003313180875",
     # "-1001234567890",   # numeric ID example
 ]
 
